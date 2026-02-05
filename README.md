@@ -19,7 +19,7 @@ Download your forked repository to your local machine:
 
 ```bash
 git clone https://github.com/<your_username>/Web3bridge-Rust-Masterclass-Cohort-II
-cd Web3bridge-Rust-Masterclass-Cohort-I
+cd Web3bridge-Rust-Masterclass-Cohort-II
 ```
 
 ### 3. Sync Your Repository Regularly
@@ -27,7 +27,7 @@ cd Web3bridge-Rust-Masterclass-Cohort-I
 Keep your fork updated with the latest changes from the main repository:
 
 ```bash
-git remote add upstream https://github.com/Bloceducare/Web3bridge-Rust-Masterclass-Cohort-I
+git remote add upstream https://github.com/Bloceducare/Web3bridge-Rust-Masterclass-Cohort-II
 git pull upstream master
 git push origin master
 ```
